@@ -10,8 +10,10 @@ python <filename.py>
 ```
 pip install tweepy
 ```
-2. A twitter developer acc Go to this link and make one if you don't have one already https://developer.twitter.com/en
-   2.1. Create a new app and fill the details to get the keys
+2. A twitter developer acc Go to this link and make one if you don't have one already https://developer.twitter.com/en \
+   2.1. Create a new app and fill the details to get the keys \
+
+3. Edit the config.py file with your API credentials you got from twitter developer account.
 
 ## Developing Environment :
 
