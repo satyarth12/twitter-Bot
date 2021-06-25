@@ -1,5 +1,9 @@
 # twitter-Bot
-This is a twitter Bot which can be used to like amd retweet tweets with certain keywords, follow your followers and reply to all your mentions about anything like.
+This is a twitter Bot which can be used to like amd retweet tweets with certain keywords, follow your followers and reply to all your mentions about anything like. \
+Use this command on your command prompt and wirte the desired bot's file name you want to run 
+```
+python <filename.py>
+```
 
 ## Requirements :
 1. Tweepy Package
